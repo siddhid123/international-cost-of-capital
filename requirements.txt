@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+xlrd>=2.0.1
+openpyxl>=3.1
+lxml>=5.0
+beautifulsoup4>=4.12
+html5lib>=1.1
+altair>=5.0
